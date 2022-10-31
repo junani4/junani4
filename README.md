@@ -21,7 +21,7 @@
   
   <h4>:four_leaf_clover: Me </h4>
   <a href="https://blog.naver.com/namsan7777"><img src="https://img.shields.io/badge/Blogger-20C997?style=flat&logo=Blogger&logoColor=white"/></a>  
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to="namsan205@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>  
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=namsan205@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>  
   <a href="https://www.instagram.com/dalkong_1027/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junani4&layout=compact"><br><br>
